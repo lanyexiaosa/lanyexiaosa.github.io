@@ -2,7 +2,7 @@
 title: "Deep Learning Engineer Intern"
 collection: jobs
 type: "Internship"
-permalink: /jobs/2012-03-01-talk-1
+permalink: /jobs/Bosch
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "Sunnyvalue, California"
