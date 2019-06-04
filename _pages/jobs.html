@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Jobs and Interns"
+title: "Jobs"
 type: pages
 permalink: /jobs/
 author_profile: true
 ---
 
 {% include base_path %}
-{% for post in site.pages %}
+{% for post in site.jobs reversed %}
   {% include archive-single.html %}
 {% endfor %}
