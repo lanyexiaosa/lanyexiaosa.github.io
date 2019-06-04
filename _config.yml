@@ -11,9 +11,9 @@ title                    : "Yiwen Meng"
 title_separator          : "-"
 name                     : &name "Yiwen Meng"
 description              : &description "PhD candidate in Bioengieering at UCLA"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lanyexiaosa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yiwenmeng.github.io"
+repository               : "lanyexiaosa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
