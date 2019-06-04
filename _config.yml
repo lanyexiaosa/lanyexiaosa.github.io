@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _Jobs and Interns
   - scope:
       path: ""
-      type: portfolio
+      type: Jobs and Interns
     values:
       layout: single
       author_profile: true
