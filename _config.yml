@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Jobs and Interns
+  # _jobs
   - scope:
       path: ""
-      type: Jobs and Interns
+      type: jobs
     values:
       layout: talk
       author_profile: true
