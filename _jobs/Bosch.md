@@ -1,8 +1,8 @@
 ---
 title: "Deep Learning Engineer Intern"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+collection: jobs
+type: "Internship"
+permalink: /jobs/2012-03-01-talk-1
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "Sunnyvalue, California"
