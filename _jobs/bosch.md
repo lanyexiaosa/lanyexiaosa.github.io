@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Engineer Intern"
-collection: jobs
+collection: teaching
 type: "Internship"
 permalink: /jobs/BOSCH
 venue: "Bosch"
