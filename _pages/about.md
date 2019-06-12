@@ -19,7 +19,7 @@ I'm starting my Deep Learning Engineer Internship at [Bosch](https://www.bosch.u
 I'm attending 36th International Conference on Machine Learning[ICML](https://icml.cc) at Long Beach,CA,USA!
 
 ## 05/29/2019
-My paper **[A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data]** (https://ieeexplore.ieee.org/document/8734713) was accepted at IEEE Journal of Biomedical and Health Informatics!
+My paper [A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data](https://ieeexplore.ieee.org/document/8734713) was accepted at IEEE Journal of Biomedical and Health Informatics!
 
 ## 11/02/2018  
 I'm atteding [AMIA 2018 Annual Symposium](https://www.amia.org/amia2018) for a poster presentation of my work **mhealth** at San Francisco, CA, USA! 
