@@ -2,7 +2,7 @@
 title: "A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data"
 collection: publications
 permalink: /publication/2019-06-11-Fitbit_HMM
-excerpt: 'In this work, we constructed a temporal machine leanring model from HHm to classify patient's health status using data collected from Fitbit'
+excerpt: 'HMM.'
 date: 2019-06-11
 venue: 'IEEE Journal of Biomedical and Health Informatics'
 citation: 'Y. Meng et al., (2019). &quot;A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data.&quot; <i>IEEE Journal of Biomedical and Health Informatics</i>.'
