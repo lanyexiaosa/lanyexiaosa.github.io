@@ -1,7 +1,7 @@
 ---
 title: "A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2019-06-11-Fitbit_HMM
 excerpt: 'Built temporal machine learning models from HMM for classification of patient's health status using data collected from Fitbit'
 date: 2019-06-11
 venue: 'IEEE Journal of Biomedical and Health Informatics'
