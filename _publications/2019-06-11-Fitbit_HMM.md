@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data"
 collection: publications
 permalink: /publication/2019-06-11-Fitbit_HMM
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+date: 2019-06-11
+venue: 'IEEE Journal of Biomedical and Health Informatics'
+paperurl: 'A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 ### Abstract
