@@ -2,10 +2,11 @@
 title: "A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data"
 collection: publications
 permalink: /publication/2019-06-11-Fitbit_HMM
-excerpt: 'Constructing statistical models using personal sensor data could...'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019-06-11
 venue: 'IEEE Journal of Biomedical and Health Informatics'
-citation: 'Y. Meng et al., (2019). &quot;A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data.&quot; <i>IEEE Journal of Biomedical and Health Informatics</i>.'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 ### Abstract
