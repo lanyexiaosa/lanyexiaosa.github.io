@@ -13,10 +13,10 @@ I'm a PhD candidate in department of [Bioengineering](https://www.bioeng.ucla.ed
 Recent News
 ======
 ## 06/17/2019
-I'm starting my Deep Learning Engineer Internship at [Bosch](https://www.bosch.us) in Sunnyvale, CA,USA !
+I'm starting my Deep Learning Engineer Internship at [Bosch](https://www.bosch.us) in Sunnyvale, CA,USA! My project is to develop an active learning algorithm to select the most informative images to label in order to reduce the overal labelling cost.
 
 ## 06/10/2019
-I'm attending 36th International Conference on Machine Learning[ICML](https://icml.cc) at Long Beach,CA,USA!
+I'm attending 36th International Conference on Machine Learning [ICML](https://icml.cc) at Long Beach,CA,USA!
 
 ## 05/29/2019
 My paper [A Machine Learning Approach to Classifying Self-Reported Health Status in a cohort of Patients with Heart Disease using Activity Tracker Data](https://ieeexplore.ieee.org/document/8734713) was accepted at IEEE Journal of Biomedical and Health Informatics!
