@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in department of [Bioengineering](https://www.bioeng.ucla.edu/?_ga=2.70414742.725917628.1559583855-1489255467.1478714198) at [UCLA](http://www.ucla.edu). I'm also a member in [Comutational Integrated Diagnostics Lab](https://cid.dgsom.ucla.edu/pages/) and [Medical Imaging Informatics](https://www.mii.ucla.edu) group under Prof.[Corey Arnold](https://www.mii.ucla.edu/people/cwarnold/) at UCLA. My main research area is in applying **machine learning** algorithms on medical data and temporal **deep learning** models on electronic health record **(EHR)** for mobile health and early disease prediction. 
+I'm a Machine Learning/AI Scientist at Masimo Corportation, building with real-time disease diagnosis/prediction systems equipped wiht deep learing algorithms. I have obtained my PhD in department of [Bioengineering](https://www.bioeng.ucla.edu/?_ga=2.70414742.725917628.1559583855-1489255467.1478714198) at [UCLA](http://www.ucla.edu). I'm also a member in [Comutational Integrated Diagnostics Lab](https://cid.dgsom.ucla.edu/pages/) and [Medical Imaging Informatics](https://www.mii.ucla.edu) group under Prof.[Corey Arnold](https://www.mii.ucla.edu/people/cwarnold/) at UCLA. My main research area is in applying **machine learning** algorithms on medical data and temporal **deep learning** models on electronic health record **(EHR)** for mobile health and early disease prediction. 
 
 Recent News
 ======
