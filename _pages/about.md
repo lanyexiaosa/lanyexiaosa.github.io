@@ -8,10 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Machine Learning/AI Scientist at [Masimo Corportation](https://www.masimo.com), building with real-time disease diagnosis/prediction systems equipped with deep learing algorithms. I have obtained my PhD in department of [Bioengineering](https://www.bioeng.ucla.edu/?_ga=2.70414742.725917628.1559583855-1489255467.1478714198) at [UCLA](http://www.ucla.edu). I'm also a member in [Comutational Diagnostics Lab](https://cdx.seas.ucla.edu) and [Medical Imaging Informatics](https://www.mii.ucla.edu) group under Prof.[Corey Arnold](https://mii.ucla.edu/people/corey-w-arnold-phd) at UCLA. My main research area is in applying **machine learning** algorithms on medical data and temporal **deep learning** models on electronic health record **(EHR)** for mobile health and early disease prediction. 
+I'm a Machine Learning/AI Scientist at [Masimo Corportation](https://www.masimo.com), building with real-time disease diagnosis/prediction systems equipped with deep learing algorithms. I have obtained my PhD in department of [Bioengineering](https://www.bioeng.ucla.edu/?_ga=2.70414742.725917628.1559583855-1489255467.1478714198) at [UCLA](http://www.ucla.edu). I'm also a member in [Comutational Diagnostics Lab](https://cdx.seas.ucla.edu) and [Medical Imaging Informatics](https://www.mii.ucla.edu) group under Prof.[Corey Arnold](https://mii.ucla.edu/people/corey-w-arnold-phd) at UCLA. My main research area is in applying **machine learning** algorithms on medical data and temporal **deep learning** models on electronic health record **(EHR)** for mobile health and early disease prediction.
 
 Recent News
 ======
+## 10/27/2020
+I passed the defense for my PhD degree at UCLA. The topic of my [dissertation](https://escholarship.org/uc/item/60v9w1fr) is Advancing Temporal Modeling and Heterogeneous Data Analysis for Digital Health.
+
+## 08/31/2020
+I'm starting my career as a machine learning/AI scientist at [Masimo](https://www.masimo.com) in Irvine, CA,USA! I'm mainly responsible for developing and deploying clinical decision support systems based on machine leanring/temporal deep learing algorithms.
+
 ## 06/17/2019
 I'm starting my Deep Learning Engineer Internship at [Bosch AI](https://www.bosch-ai.com) in Sunnyvale, CA,USA! My project is to develop an active learning algorithm to select the most informative images to label in order to reduce the overal labelling cost.
 
