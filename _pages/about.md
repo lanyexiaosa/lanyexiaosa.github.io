@@ -13,7 +13,7 @@ I'm a Machine Learning Engineer at [Masimo Corportation](https://www.masimo.com)
 Recent News
 ======
 ## 08/31/2020
-I'm starting my career as a machine learning/AI scientist at [Masimo](https://www.masimo.com) in Irvine, CA,USA! I'm mainly responsible for developing and deploying clinical decision support systems based on machine leanring/temporal deep learing algorithms.
+I'm starting my career as a machine learning scientist at [Masimo](https://www.masimo.com) in Irvine, CA,USA! I'm mainly responsible for developing and deploying clinical decision support systems based on machine leanring/temporal deep learing algorithms.
 
 ## 03/02/2020
 I passed the defense for my PhD degree at UCLA. The topic of my [dissertation](https://escholarship.org/uc/item/60v9w1fr) is Advancing Temporal Modeling and Heterogeneous Data Analysis for Digital Health.
